@@ -1,0 +1,17 @@
+# Build
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gauge
+reports/
+logs/
+.gauge/
+
+# OS
+.DS_Store
+Thumbs.db
